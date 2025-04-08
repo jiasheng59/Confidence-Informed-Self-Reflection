@@ -1,2 +1,2 @@
-# Selective Generation through Confidence-Aware Self-Reflection
+# Selective Generation through Confidence-Informed Self-Reflection
 Author: Lee Jia Sheng
